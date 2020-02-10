@@ -35,6 +35,7 @@
 	<modules>
 		<module>chapter03</module>
 		<module>chapter04</module>
+		<module>network</module>
 	</modules>
 	
 </project>
